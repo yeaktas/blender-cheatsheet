@@ -1,41 +1,41 @@
 Sık kullanılan
-U       	  = Uv Mapping ile ilgili menüyü açar. Nesnenin Uv Mapini çıkarmak için açılan menüden Unwrap seçilmesi gerekir.
-A       	  = Tüm nesneyi seçer. iki kez basarsan seçimi kaldırır.
-P			  = Alt nesneyi ayrı bir nesne yapmak için kullanılır.
-L			  = Alt nesneyi ayrı bir şekilde seçmek için kullanılır.
-Ctrl+J		  = Alt Nesneyi nesneyle birleştirmek için kullanılır.
+U             = Uv Mapping ile ilgili menüyü açar. Nesnenin Uv Mapini çıkarmak için açılan menüden Unwrap seçilmesi gerekir.
+A             = Tüm nesneyi seçer. iki kez basarsan seçimi kaldırır.
+P             = Alt nesneyi ayrı bir nesne yapmak için kullanılır.
+L             = Alt nesneyi ayrı bir şekilde seçmek için kullanılır.
+Ctrl+J        = Alt Nesneyi nesneyle birleştirmek için kullanılır.
 Ctrl+P        = > Object > Objeleri gruplamak için kullanılır. En son seçilen obje ana obje olur.
 Alt+P         = Alt objeleri gruptan çıkarmak için kullanılır.	 
-E			  = Yeni bir vertex(köşe), Edge(kenar), face(Yüz) yaratmak için kullanılır.	
-I			  = İlave yüz eklemek için kullanılır.
-Ctrl+B		  = Nesnenin köşelerini eğimli yapmak için kullanılır. Tekerlek ile kenar sayısı artırılır.	
-Ctrl+R		  =	Nesneyi tüm yüzeylerinden kesmek için kullanılır.
-K			  = Nesnenin seçilen yüzelerini kesmek için kullanılır. Kesimi tamamlamak için Enter tuşuna basılır.	
-G 			  = Nesnenin boyunu uzatmak için kullanılır.   										  
-S		      = Nesnenin scaleini değiştirmek için kullanılır  									
-R			  = Nesnenin rotationunu değiştirmek için kullanılır.	
-Shift+A 	  = Nesne Eklemek için kullanılır.
+E             = Yeni bir vertex(köşe), Edge(kenar), face(Yüz) yaratmak için kullanılır.	
+I             = İlave yüz eklemek için kullanılır.
+Ctrl+B        = Nesnenin köşelerini eğimli yapmak için kullanılır. Tekerlek ile kenar sayısı artırılır.	
+Ctrl+R        =	Nesneyi tüm yüzeylerinden kesmek için kullanılır.
+K             = Nesnenin seçilen yüzelerini kesmek için kullanılır. Kesimi tamamlamak için Enter tuşuna basılır.	
+G             = Nesnenin boyunu uzatmak için kullanılır.   										  
+S             = Nesnenin scaleini değiştirmek için kullanılır  									
+R             = Nesnenin rotationunu değiştirmek için kullanılır.	
+Shift+A       = Nesne Eklemek için kullanılır.
 Shift+S       = Cursor seçimleri için kullanılır.
 Shift+Space   = Toolboxı açar.
-Ctrl+A 		  = Nesnenin Location Scale Rotationunu sıfırlamak için kullanılır.
+Ctrl+A        = Nesnenin Location Scale Rotationunu sıfırlamak için kullanılır.
 Shift+N       = Ters yüzü düzeltmek için kullanılır.
 
 Alt + G       = Nesnenin konumunu sıfırlar.
-Alt + R		  = Nesnenin rotasyonunu sıfırlar.
+Alt + R       = Nesnenin rotasyonunu sıfırlar.
 
-1			  = Vertex(köşe) seçmek için kullanılır. Shift+Click ile tek tek birden fazla vertex seçilebilir. Ctrl+Click ile seçilen iki vertex arasındaki vertexler otomatik seçilir.
-2			  = Edge(kenar) seçmek için kullanılır.  Shift+Click ile tek tek birden fazla edge seçilebilir. Ctrl+Click ile seçilen iki edge arasındaki edgeler otomatik seçilir.
+1             = Vertex(köşe) seçmek için kullanılır. Shift+Click ile tek tek birden fazla vertex seçilebilir. Ctrl+Click ile seçilen iki vertex arasındaki vertexler otomatik seçilir.
+2             = Edge(kenar) seçmek için kullanılır.  Shift+Click ile tek tek birden fazla edge seçilebilir. Ctrl+Click ile seçilen iki edge arasındaki edgeler otomatik seçilir.
 3             = Face(yüz) seçmek için kullanılır.    Shift+Click ile tek tek birden fazla face seçilebilir. Ctrl+Click ile seçilen iki face arasındaki faceler otomatik seçilir.
 Num 1         = Nesnenin önünden bakmak için.
 Num 3         = Nesnenin sağından bakmak için.
 Num 7         = Nesnenin üstünden bakmak için. 
 Num 9         = Nesnenin altından bakmak için.	
 
-Ctrl+S  	  = Projeyi kaydetmek için kullanılır.
-Ctrl+Z  	  = Geri Al
+Ctrl+S        = Projeyi kaydetmek için kullanılır.
+Ctrl+Z        = Geri Al
 Shift+Ctrl+Z  = İleri Al
 
-Ctrl + 2  	  = Subdivision Modifieri ekler.
+Ctrl + 2      = Subdivision Modifieri ekler.
 
 
 Ctrl + Alt n0 = Kamerayı baktığın açıya taşır. G tuşu ile açıyı değiştirebilirsin. 
@@ -47,7 +47,7 @@ Daha sonra weighted normal modifieri ekliyoruz.
 
 Blemder Add-On
 
-Bool Tool = Boolean Modifierini kolay kullanabiliyoruz.
+Bool Tool     = Boolean Modifierini kolay kullanabiliyoruz.
 Loop Tools
 Extra 
 

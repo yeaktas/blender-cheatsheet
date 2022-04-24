@@ -1,7 +1,7 @@
 # Blender Cheatsheet
 ## Edit mode:
 | Kısayollar | Özellikleri |
-| :----------------------: | --- |
+| :---: | --- |
 | **`Tab`** | 'Edit Mode' ile 'Object Mode' arasında geçiş yapar.|
 | **`G`** | Grab - Seçili olan objeyi taşımaya yarar. (G tuşuna bastıktan sonra X,Y,Z tuşlarına basarak istediğiniz eksene göre objeyi taşıyabilirsiniz.) |
 | **`R`** | Rotate - Seçili olan objeyi döndürmeye yarar. (R tuşuna bastıktan sonra X,Y,Z tuşlarına basarak istediğiniz eksene göre objeyi döndürebilirsiniz.) |
@@ -13,6 +13,8 @@
 | **`Crtl + B`** | Bevel Tool - Kenarları yuvarlamak için kullanılır. (Mouse tekerleğini çevirerek köşe sayısı artırılabilir.) |
 | **`Ctrl + R`** | Loop Cut - Döngüsel kesim yapmayı sağlar. |
 | **`Shift + A`** | Yeni obje eklemek için kullanılır. |
+
+*Smoothlaştırma: Obje modundayken right click > Shade Smooth seçiyoruz. Smooth derecesini ayarlamak için Properties menüsünden Object Data Properties > Normals > Auto Smooth'u aktifleştiriyoruz.*
 
 ## Seçim işlemleri:
 
@@ -26,8 +28,6 @@
 | **`Ctrl + I`** | Seçili olan kısmın tersini seçer. |
 | **`L`** | Alt nesneyi seçmek için kullanılır. |
 | **`Shift + G`** | Benzerlerini seçme menüsünü açar. |
-
-### *Smoothlaştırma: Obje modundayken right click > Shade Smooth seçiyoruz. Smooth derecesini ayarlamak için Properties menüsünden Object Data Properties > Normals > Auto Smooth'u aktifleştiriyoruz.*
 
 ## UV Mapping: 
 
@@ -64,7 +64,28 @@
 | **`Shift + Space`** | Toolbox menüsünü açar. |
 | **`Alt + G`** | Konumunu sıfırlar. |
 | **`Alt + R`** | Rotasyonunu sıfırlar. |
-| **`Ctrl + A`** |  | Uygulama menüsünü açar. (Objenin tüm dönüştürmelerini uygulamak için kullanılır.)
+| **`Ctrl + A`** | Uygulama menüsünü açar. (Objenin tüm dönüştürmelerini uygulamak için kullanılır.) |
 | **`Shift + N`** | Ters yüzü düzeltmek için kullanılır. |
 | **`Ctrl + 1,2,3`** | Subdivision modifieri ekler. (1-2-3 seviyesini belirtir.) |
 | **`Ctrl + Alt + Num0`** | Kamerayı baktığın açıya taşır. G tuşu ile açıyı değiştirilebilir. |
+
+
+ 
+H
+
+Num 1         = Nesnenin önünden bakmak için.
+
+Num 3         = Nesnenin sağından bakmak için.
+
+Num 7         = Nesnenin üstünden bakmak için. 
+
+Num 9         = Nesnenin altından bakmak için.	
+
+## Add-on 
+
+Bool Tool     = Boolean Modifierini kolay kullanabiliyoruz.
+
+Loop Tools
+
+Extra
+

@@ -1,7 +1,7 @@
 # Blender Cheatsheet
-## Objeyi editlerken kullanılabilecek kısayollar:
+## Edit mode:
 | Kısayollar | Özellikleri |
-| :---: | --- |
+| :----------------------: | --- |
 | **`Tab`** | 'Edit Mode' ile 'Object Mode' arasında geçiş yapar.|
 | **`G`** | Grab - Seçili olan objeyi taşımaya yarar. (G tuşuna bastıktan sonra X,Y,Z tuşlarına basarak istediğiniz eksene göre objeyi taşıyabilirsiniz.) |
 | **`R`** | Rotate - Seçili olan objeyi döndürmeye yarar. (R tuşuna bastıktan sonra X,Y,Z tuşlarına basarak istediğiniz eksene göre objeyi döndürebilirsiniz.) |
@@ -14,7 +14,7 @@
 | **`Ctrl + R`** | Loop Cut - Döngüsel kesim yapmayı sağlar. |
 | **`Shift + A`** | Yeni obje eklemek için kullanılır. |
 
-## Seçim işlemleri için kullanılabilecek kısayollar:
+## Seçim işlemleri:
 
 | Kısayollar | Özellikleri |
 | :---: | --- |
@@ -25,12 +25,46 @@
 | **`Alt + A`** | Tümünün seçimini kaldır. |
 | **`Ctrl + I`** | Seçili olan kısmın tersini seçer. |
 | **`L`** | Alt nesneyi seçmek için kullanılır. |
+| **`Shift + G`** | Benzerlerini seçme menüsünü açar. |
 
-
-## UV Mapping işlemleri için kullanılacaklar: 
+## UV Mapping: 
 
 | Kısayollar | Özellikleri |
 | :---: | --- |
 | **`U`** | UV Mapping ile ilgili menüyü açar. Nesnenin UV Mapini çıkarmak için açılan menüden unwrap seçilmesi gerekir.|
-*Uv açmadan önce materyal ekle ve apply all transform yapmayı unutma.*
+
+*UV açmadan önce materyal ekle ve apply all transform yapmayı unutma.*
+
 *Birden fazla objeyi aynı materyale koymak için hepsini seçip edit moda geç.*
+
+## Alt objeler: 
+| Kısayollar | Özellikleri |
+| :---: | --- |
+| **`Ctrl + J`** | Objeleri birleştirmek için kullanılır. |
+| **`P`** | Alt objeyi ayrı bir obje yapmak için kullanılır. |
+| **`Alt + P`** | Alt objeyi gruptan çıkarmak için kullanılır. |
+| **`Ctrl + P`** |  > Object > Objeleri gruplamak için kullanılır. En son seçilen obje ana obje olur. |
+
+## Dosya işlemleri:
+
+| Kısayollar | Özellikleri |
+| :---: | --- |
+| **`Ctrl + S`** | Kaydet. |
+| **`Shift +Ctrl + S`** | Farklı kaydet. |
+| **`Ctrl + Z`** | Geri al. |
+| **`Shift + Ctrl + Z`** | Geri al. |
+
+## Kategorize edilmemiş diğer kısayollar: 
+
+| Kısayollar | Özellikleri |
+| :---: | --- |
+| **`Shift + S`** | Cursor seçimleri için kullanılır. |
+| **`Shift + Space`** | Toolbox menüsünü açar. |
+| **`Alt + G`** | Konumunu sıfırlar. |
+| **`Alt + R`** | Rotasyonunu sıfırlar. |
+| **`Ctrl + A`** |  | Uygulama menüsünü açar. (Objenin tüm dönüştürmelerini uygulamak için kullanılır.)
+| **`Shift + N`** | Ters yüzü düzeltmek için kullanılır. |
+| **`Ctrl + 1,2,3`** | Subdivision modifieri ekler. (1-2-3 seviyesini belirtir.) |
+
+
+### *Smoothlaştırma: Obje modundayken right click > Shade Smooth seçiyoruz. Smooth derecesini ayarlamak için Properties menüsünden Object Data Properties > Normals > Auto Smooth' u aktifleştiriyoruz.*

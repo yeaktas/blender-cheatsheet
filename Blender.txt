@@ -8,6 +8,7 @@ Ctrl+P        = > Object > Objeleri gruplamak için kullanılır. En son seçile
 Alt+P         = Alt objeleri gruptan çıkarmak için kullanılır.	 
 E             = Yeni bir vertex(köşe), Edge(kenar), face(Yüz) yaratmak için kullanılır.	
 I             = İlave yüz eklemek için kullanılır.
+Ctrl+I        = Seçili olan kısım haricindekileri seçer. 
 Ctrl+B        = Nesnenin köşelerini eğimli yapmak için kullanılır. Tekerlek ile kenar sayısı artırılır.	
 Ctrl+R        =	Nesneyi tüm yüzeylerinden kesmek için kullanılır.
 K             = Nesnenin seçilen yüzelerini kesmek için kullanılır. Kesimi tamamlamak için Enter tuşuna basılır.	
@@ -19,6 +20,7 @@ Shift+S       = Cursor seçimleri için kullanılır.
 Shift+Space   = Toolboxı açar.
 Ctrl+A        = Nesnenin Location Scale Rotationunu sıfırlamak için kullanılır.
 Shift+N       = Ters yüzü düzeltmek için kullanılır.
+Shift+G       = Seçimlerle ilgili menüyü açar.
 
 Alt + G       = Nesnenin konumunu sıfırlar.
 Alt + R       = Nesnenin rotasyonunu sıfırlar.
@@ -38,7 +40,7 @@ Shift+Ctrl+Z  = İleri Al
 Ctrl + 2      = Subdivision Modifieri ekler.
 
 
-Ctrl + Alt n0 = Kamerayı baktığın açıya taşır. G tuşu ile açıyı değiştirebilirsin. 
+Ctrl+Alt+Num0 = Kamerayı baktığın açıya taşır. G tuşu ile açıyı değiştirebilirsin. 
 Ctrl + B      = Renderin hangi alanı almasını istiyorsak seçebiliyoruz.
 
 

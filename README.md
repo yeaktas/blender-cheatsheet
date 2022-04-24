@@ -10,3 +10,4 @@
 | `I` | Inset Faces - Seçili yüzeyi kendi içinde boyutlandırır. |
 | `K` | Knife Tool - Face üzreinde kesim yapmayı sağlar. (Enter tuşuna basarak kesim sonlandırılır.) |
 
+- [Blender Cheatsheet](#blender-cheatsheet)

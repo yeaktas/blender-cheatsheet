@@ -2,5 +2,5 @@
 
 | Kısayollar | Özellikleri |
 |----------- | -----------|
-|Tab | 'Edit Mode' ile 'Object Mode' arasında geçiş yapar.|
-| G | Grab |
+| 'Tab' | 'Edit Mode' ile 'Object Mode' arasında geçiş yapar.|
+| 'G' | Grab |

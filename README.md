@@ -27,6 +27,8 @@
 | **`L`** | Alt nesneyi seçmek için kullanılır. |
 | **`Shift + G`** | Benzerlerini seçme menüsünü açar. |
 
+### *Smoothlaştırma: Obje modundayken right click > Shade Smooth seçiyoruz. Smooth derecesini ayarlamak için Properties menüsünden Object Data Properties > Normals > Auto Smooth'u aktifleştiriyoruz.*
+
 ## UV Mapping: 
 
 | Kısayollar | Özellikleri |
@@ -65,6 +67,4 @@
 | **`Ctrl + A`** |  | Uygulama menüsünü açar. (Objenin tüm dönüştürmelerini uygulamak için kullanılır.)
 | **`Shift + N`** | Ters yüzü düzeltmek için kullanılır. |
 | **`Ctrl + 1,2,3`** | Subdivision modifieri ekler. (1-2-3 seviyesini belirtir.) |
-
-
-### *Smoothlaştırma: Obje modundayken right click > Shade Smooth seçiyoruz. Smooth derecesini ayarlamak için Properties menüsünden Object Data Properties > Normals > Auto Smooth' u aktifleştiriyoruz.*
+| **`Ctrl + Alt + Num0`** | Kamerayı baktığın açıya taşır. G tuşu ile açıyı değiştirilebilir. |

@@ -2,7 +2,7 @@
 
 | Kısayollar | Özellikleri |
 | :---: | --- |
-| *`Tab`* | 'Edit Mode' ile 'Object Mode' arasında geçiş yapar.|
+| **`Tab`** | 'Edit Mode' ile 'Object Mode' arasında geçiş yapar.|
 | `G` | Grab - Seçili olan objeyi taşımaya yarar. (G tuşuna bastıktan sonra X,Y,Z tuşlarına basarak istediğiniz eksene göre objeyi taşıyabilirsiniz.) |
 | `R` | Rotate - Seçili olan objeyi döndürmeye yarar. (R tuşuna bastıktan sonra X,Y,Z tuşlarına basarak istediğiniz eksene göre objeyi döndürebilirsiniz.) |
 | `S` | Scale - Boyut ayarları yapmaya yarar. |

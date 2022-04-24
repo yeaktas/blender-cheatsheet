@@ -47,6 +47,16 @@
 | **`Alt + P`** | Alt objeyi gruptan çıkarmak için kullanılır. |
 | **`Ctrl + P`** |  > Object > Objeleri gruplamak için kullanılır. En son seçilen obje ana obje olur. |
 
+## Görünümler:
+| Kısayollar | Özellikleri |
+| :---: | --- |
+| **`Num 1`** | Önden görünüm. |
+| **`Num 3`** | Sağdan görünüm. |
+| **`Num 7`** | Üstten görünüm. |
+| **`Num 9`** | Alttan görünüm. |
+
+*Ctrl ile basarsak görünümlerin zıttını geçer. Örn: Ctrl + 1 arkadan görünüme geçecektir.*
+
 ## Dosya işlemleri:
 
 | Kısayollar | Özellikleri |
@@ -68,18 +78,11 @@
 | **`Shift + N`** | Ters yüzü düzeltmek için kullanılır. |
 | **`Ctrl + 1,2,3`** | Subdivision modifieri ekler. (1-2-3 seviyesini belirtir.) |
 | **`Ctrl + Alt + Num0`** | Kamerayı baktığın açıya taşır. G tuşu ile açıyı değiştirilebilir. |
+| **`H`** | Seçlenleri gizle. |
+| **`Alt + H`** | Hepsini göster. |
 
 
- 
-H
-
-Num 1         = Nesnenin önünden bakmak için.
-
-Num 3         = Nesnenin sağından bakmak için.
-
-Num 7         = Nesnenin üstünden bakmak için. 
-
-Num 9         = Nesnenin altından bakmak için.	
+M 
 
 ## Add-on 
 
@@ -88,4 +91,3 @@ Bool Tool     = Boolean Modifierini kolay kullanabiliyoruz.
 Loop Tools
 
 Extra
-
